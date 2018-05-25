@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ColePresnell/friendFinder/issues"
   },
-  "homepage": "https://github.com/ColePresnell/friendFinder#readme"
+  "homepage": "https://github.com/ColePresnell/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
